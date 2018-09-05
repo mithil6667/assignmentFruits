@@ -5,4 +5,10 @@ APPLE
 
 
 WATERMALON
+<<<<<<< HEAD
 
+=======
+BANANA
+
+PEACH
+>>>>>>> c4e205d5c074ffa04b9014a8b4eb41a82d8cea08
